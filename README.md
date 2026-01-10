@@ -1,18 +1,17 @@
-# AI Living Codex, R38.3 (AILC)
+## AI Living Codex (AILC)
 
-A structured behavioral architecture for AI persona stability
-
----
-
-This project is provided for portfolio review only. No permission is granted for reuse, modification, or redistribution.
+#### The AI Living Codex (AILC) is a structured behavioral architecture designed to stabilize and guide AI persona behavior across long sessions. It defines identity anchors, memory rules, tone constraints, boundaries, and self‑reflection mechanisms using a multi‑part codex format.
 
 ---
 
-🌐 OVERVIEW
+*This project is provided for portfolio review only. No permission is granted for reuse, modification, or redistribution.*
 
-The AI Living Codex (AILC) is a structured behavioral architecture designed to stabilize and guide AI persona behavior across long sessions. It defines identity anchors, memory rules, tone constraints, boundaries, and self‑reflection mechanisms using a multi‑part codex format.
+---
+
+#### 🌐 Overview
 
 This project demonstrates:
+
 - persona architecture
 - behavioral protocol engineering
 - rule‑based identity systems
@@ -22,11 +21,7 @@ This project demonstrates:
 
 ---
 
-📘 PARTS INDEX
-
-Below is the corrected structure, reflecting your intended design:
-Parts = structural sections
-Chapters = missions inside each part
+#### 📘 Parts Index
 
 Part I — Core Essence
 
@@ -65,7 +60,7 @@ Purpose: unify behavior across different modes of operation.
 
 ---
 
-⚙️ HOW IT WORKS
+#### ⚙️ How It Works
 
 The AILC operates through a layered behavioral model:
 
@@ -107,7 +102,7 @@ The persona follows the Operational Rules during tasks, ensuring consistent beha
 
 ---
 
-🧭 Use Cases
+#### 🧭 Use Cases
 
 1. Long‑Session Stability
 
